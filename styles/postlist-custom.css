@@ -1,0 +1,19 @@
+/* Bootstrap overwriiten */
+
+body {
+    
+    background: #FFEEDD;
+}
+.modal-title{
+    padding-left: 40px;
+}
+.modal-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-success{
+width: 20%;
+}
+.btn-danger{
+    width: 20%;
+}

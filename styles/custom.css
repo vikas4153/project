@@ -1,0 +1,27 @@
+/* Bootstrap overwritten  */
+
+.btn-success{
+    width: 100%;
+}
+.signup-innerBtn{
+    color: blue;
+    border: 0;
+}
+
+.signup-innerBtn:hover{
+    text-decoration: none;
+}
+
+.model-footer{
+    display: flex;
+    justify-content: center;
+    padding-top: 4%;
+}
+.textArea{
+    width: 99%;
+    height: 373px;
+}
+.btn-primary{
+    margin-right: 42%;
+    width: 15%;
+}

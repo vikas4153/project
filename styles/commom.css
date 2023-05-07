@@ -1,0 +1,82 @@
+body {
+    background: url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.logo-title{
+    padding-left: 0%;
+    padding-top: 0%;
+    
+}
+#pageTitle{
+    color: blue;
+    font-size: 215%;
+}
+
+#middleText{
+    font-size: 93%;
+    margin-block-start: -12px;
+}
+
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+button{
+    border-radius: 4px;
+}
+
+.sign-in-topButtons{
+    border: 1;
+    background-color: blue;
+    color: white;
+    /* padding: 5px 10px; */
+    font-size: 17px;
+    padding: 9px 20px;
+    margin-right: 12px 15px;
+    
+}
+.sign-up-topButtons{
+    border: 1;
+    background-color: blue;
+    color: white;
+    /* padding: 5px 10px; */
+    font-size: 17px;
+    padding: 9px 20px;
+    margin: 12px;
+}
+.all-middleButtons{
+    background-color: goldenrod;
+    padding: 10px 30px;
+    font-size: medium;
+    position: absolute;
+    top: 50%;
+    left: 41%;
+    border-color:aliceblue;
+
+}
+
+.create-middleButtons{
+    background-color: goldenrod;
+    padding: 10px 19px;
+    font-size: medium;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-color: aliceblue;
+}
+
+
+
+
+
+
+
